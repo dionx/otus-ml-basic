@@ -20,11 +20,6 @@ cd src
 export PYTHONPATH=$(pwd)
 ```
 
-Установить пакеты 
-
-```bash
-
-```
 
 ### Ссылки
 
